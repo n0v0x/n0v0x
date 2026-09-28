@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 ### Языки в моих репозиториях
+<p align="center">
 <img src="stats/pie_by_repos.png" alt="Pie" width="540">
-
+</p>
 
 <!--
 **n0v0x/n0v0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
