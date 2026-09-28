@@ -2,7 +2,7 @@
 
 ### Языки в моих репозиториях
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats/leaderboard_by_repos.png)
 
 
 <!--
