@@ -16,5 +16,5 @@
          - uses: StefVuck/Github-Language-Stats@v1.2.0
            with:
              github_token: ${{ secrets.PRIVATE_REPOS_TOKEN }}
-             visualization_types: "leaderboard"
+             visualization_types: "pie"
              output_path: "stats"
