@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### Языки в моих репозиториях
+
+![Статистика языков в моих репозиториях](./assets/languages.svg)
+
+
 <!--
 **n0v0x/n0v0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
