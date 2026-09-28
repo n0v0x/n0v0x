@@ -3,6 +3,7 @@
 ### Языки в моих репозиториях
 
 ![Language Stats](stats/pie_by_repos.png)
+<img src="stats/pie_by_repos.png" alt="Pie" width="400">
 
 
 <!--
